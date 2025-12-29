@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm **Sahin Efe**, Control and Automation Engineering student in Istanbul Technical University.
+I'm **Sahin Efe**, I study Control and Automation Engineering in Istanbul Technical University.
 
 I was studying Software eng. previously, then I changed my major and university. But this doesn't mean I'm not into software dev anymore.
 I still continue to improve myself everyday.
